@@ -1,5 +1,4 @@
-$(function(){
-
-	
+$('#foo'){
+	.item
 	
 });
