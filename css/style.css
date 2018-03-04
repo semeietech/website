@@ -1,0 +1,6 @@
+/*Diego Slider Inicio*/
+
+	body{margin:0 ; padding: 0;}
+	#slider{}
+	#slider .item{width: 100%; height: 600px; background: red;}
+/*Diego Slider Fim*/

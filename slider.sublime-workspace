@@ -1,0 +1,460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"texta",
+				"text-align-last"
+			],
+			[
+				"MAR",
+				"margin"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mart",
+				"margin-bottom"
+			],
+			[
+				"BORT",
+				"border-top"
+			],
+			[
+				"pat",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Diego20182/Repositorios/website/slider.html",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/footer.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/inc/css/menu.css",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/inc/css/theme.css",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/page-templates/page_servicos.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/components/menu.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/components/single/single-portfolio.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/components/single/single-blog.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/components/single/single-default.php",
+		"/C/Users/Diego20182/Documents/projetos/armservicos/wp-content/themes/armservicos/header.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/style.css",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/functions.php",
+		"/C/Users/Diego20182/Documents/projetos/anapel/robots.txt",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/robots.txt",
+		"/C/Users/Diego20182/Documents/projetos/vidracariasatiro/wp-content/themes/satiro/page-templates/page_produtos.php",
+		"/C/Users/Diego20182/Desktop/Trabalhos Graficos/assuntos auto escola charme/credenciamento 2017/relação.txt",
+		"/C/Users/Diego20182/Desktop/bxslider-4-master/bxslider-4-master/dist/jquery.bxslider.css",
+		"/C/Users/Diego20182/Desktop/bxslider-4-master/bxslider-4-master/dist/index.html",
+		"/C/Users/Diego20182/Desktop/bxslider-4-master/bxslider-4-master/dist/jquery.bxslider.min.js",
+		"/C/Users/Diego20182/Desktop/teste temp/css/style.css",
+		"/C/Users/Diego20182/Desktop/teste temp/index.html",
+		"/C/Users/Diego20182/Desktop/Trabalhos Graficos/assuntos auto escola charme/anotações.txt",
+		"/C/Users/Diego20182/Documents/projetos/vidracariasatiro/wp-content/themes/satiro/components/slider_wd.php",
+		"/C/Users/Diego20182/Documents/projetos/vidracariasatiro/robots.txt",
+		"/C/Users/Diego20182/Desktop/robots.txt",
+		"/C/Users/Diego20182/Documents/projetos/vidracariasatiro/error_log",
+		"/C/Users/Diego20182/Google Drive/uteis wordpress.txt",
+		"/C/Users/Diego20182/Documents/projetos/profissionalize/sftp-config.json",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/components/slider.php",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/page-templates/page_quem_somos.php",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/inc/css/theme.css",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/style.css",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/page-templates/page_blog.php",
+		"/C/Users/Diego20182/Documents/projetos/escolamundocolorido/wp-content/themes/emundocolorido/components/single/single-fotos.php",
+		"/C/Users/Diego20182/Documents/projetos/escolamundocolorido/wp-content/themes/emundocolorido/header.php",
+		"/C/Users/Diego20182/Documents/projetos/escolamundocolorido/wp-content/themes/emundocolorido/style.css",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/single.php",
+		"/C/Users/Diego20182/Documents/projetos/escolamundocolorido/wp-content/themes/emundocolorido/components/destaques_home.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/components/single/single-cat1.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/components/single/single-default.php",
+		"/C/Users/Diego20182/Documents/projetos/vidracariasatiro/wp-content/themes/satiro/components/single/single-cat1.php",
+		"/C/Users/Diego20182/Documents/projetos/vidracariasatiro/wp-content/themes/satiro/components/single/single-produtos.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/page-templates/page_portfolio.php",
+		"/C/Users/Diego20182/Google Drive/documentos assessoria/host.txt",
+		"/C/Users/Diego20182/Desktop/fazer contato.txt",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/page.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/components/call_home_servicos.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/page-templates/page_contato.php",
+		"/C/Users/Diego20182/Desktop/anapel/sgv/icomoon/demo-files/demo.css",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/page-templates/page_produtos.php",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/category.php",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/functions.php",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/footer.php",
+		"/C/Users/Diego20182/Desktop/anapel/sgv/index.html",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/components/call_home_blog.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/components/call_home_portfolio.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/index.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/customizer.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/components/call_home.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/casandonapraia/header.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.1/header.php",
+		"/C/Users/Diego20182/Desktop/contatos.txt",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/components/call_categorias.php",
+		"/C/Users/Diego20182/Documents/projetos/supinets 2/loja virtual.txt",
+		"/C/Users/Diego20182/Documents/projetos/supinets 2/portal de noticias.txt",
+		"/C/Users/Diego20182/Documents/projetos/supinets 2/criação de sites.txt",
+		"/C/Users/Diego20182/Documents/projetos/supinets 2/servicos.txt",
+		"/C/Users/Diego20182/Documents/projetos/supinets/relevante.txt",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/sftp-config-alt.json",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/teste/index.html",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/style.css",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/footer.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/functions.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/inc/css/menu.css",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/footer.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/header.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/components/menu.php",
+		"/C/Users/Diego20182/Documents/projetos/cesar/elogiar/inserir.php",
+		"/C/Users/Diego20182/Documents/projetos/cesar/elogiar/templates/header.php",
+		"/C/Users/Diego20182/Documents/projetos/cesar/elogiar/functions/functions.php",
+		"/C/Users/Diego20182/Documents/projetos/cesar/elogiar/sftp-config.json",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/inc/css/theme.css",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/components/call_home.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/page-templates/page_cases.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/inc/css/theme.css",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/customizer.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/functions.php",
+		"/C/Users/Diego20182/Desktop/site/functions.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/page-templates/page_servicos.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/page-templates/page_s_construcao.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/page-templates/page_s_manutencao_p.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/page-templates/page_s_reformas.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/page-templates/page_contato.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/page-templates/page_contato.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/page.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/search.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/404.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/archive.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/category.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/style.css",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/index.php",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos 1.1/components/slider.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/archive.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/comments.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/search.php",
+		"/C/Users/Diego20182/Desktop/base-wp/inc/admin/options/assetts/customizer-settings.php",
+		"/C/Users/Diego20182/Desktop/base-wp/inc/admin/options/customizer.php",
+		"/C/Users/Diego20182/Desktop/base-wp/header.php",
+		"/C/Users/Diego20182/Desktop/base-wp/comments.php",
+		"/C/Users/Diego20182/Desktop/base-wp/archive.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/category.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/components/menu.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/components/single/single-default.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/customizer.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/404.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/page.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/components/single/single-cat1.php",
+		"/C/Users/Diego20182/Documents/projetos/01 - basepress/basepress 1.4/inc/wp_bootstrap_navwalker  one .php",
+		"/C/Users/Diego20182/Desktop/Hover-master/Hover-master/index.html",
+		"/C/Users/Diego20182/Documents/projetos/armservicos/wp-content/themes/armservicos/functions.php",
+		"/C/Users/Diego20182/AppData/Local/Temp/Rar$DIa5748.46666/functions.php",
+		"/C/Users/Diego20182/Documents/projetos/anapel/wp-content/themes/anapel/page.php",
+		"/C/Users/Diego20182/Documents/projetos/casandonapraia/wp-content/themes/index.php",
+		"/C/Users/Diego20182/Desktop/casando na praia site temp/index.html",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos/inc/css/theme.css",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos/inc/css/menu.css",
+		"/C/Users/Diego20182/Documents/projetos/viannaservicos/wp-content/themes/viannaservicos/page-templates/page_s_manutencao_p.php",
+		"/C/Users/Diego20182/Documents/projetos/gsaescadas/gsaescadas/components/call_portfolio.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Diego20182\\Documents\\projetos\\viannaservicos\\wp-content\\themes\\viannaservicos 1.1",
+			"C:\\Users\\Diego20182\\Documents\\projetos\\apptareformas\\wp-content\\themes\\apptareformas"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</p>",
+			"<li>",
+			"alt",
+			"@",
+			"imagem",
+			"item_servico",
+			"pg_servicos",
+			"ddd",
+			"6A7680",
+			"‘",
+			"70px",
+			"transparent",
+			"item_call_servicos",
+			"$i",
+			"call_home_portfolio",
+			"Ferraz",
+			"col-md-2",
+			"bounce",
+			"Loja Virtual",
+			"noticias",
+			"Criação de Loja Virtual",
+			"Ecommerce",
+			"Loja Virtual",
+			"Criação de Site",
+			"Site",
+			"negativas",
+			"333",
+			"f2f2f2",
+			"vianna_menu",
+			"Vianna",
+			"call_home",
+			"<?php bloginfo('template_url'); ?>/inc/img/brand.png",
+			"color",
+			"#222",
+			"img",
+			"class=\"page\"",
+			"page",
+			");",
+			"BPsupinetsBP",
+			";}",
+			"/*",
+			"333",
+			"rgba(0, 0, 113, 1)",
+			"#",
+			"80px",
+			"bottom",
+			"img_inline",
+			"<div class=\"col-md-2 text-center\">",
+			"<a href=\"#\">",
+			"fw10",
+			"fas",
+			"pulse",
+			"class",
+			"fa",
+			"add_control",
+			"add_setting",
+			"add_control",
+			"email",
+			"GSAEscadas",
+			"itfade",
+			"h3",
+			"call_produtos",
+			"src",
+			"GSAEscadas",
+			"<br>",
+			"#page",
+			"page",
+			"alt",
+			"src",
+			"portfolio",
+			"333",
+			"GSAEscadas",
+			"h2",
+			"alt",
+			"supinets",
+			"<p>",
+			"Escadas",
+			"?>/",
+			"http://198.136.59.112/~gsaescad",
+			"col-md-4",
+			"h3",
+			"3",
+			"Los Angeles"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"class=\"p\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "slider.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
