@@ -10,11 +10,58 @@
 </head>
 <body>
 	<section>
+	<div class="container">
 		<div id="slider">
-			<div class="item" style="background: url('img/imagem1.jpg');"></div>
+			<div class="item" style="background: url('img/imagem1.jpg');">
+				<div style="padding-top: 500px; width: 100%; text-align: center; color: #fff; "> 
+					<h1>AQUI INICIAMOS GRANDES COISAS</h1>
+				</div>
+			</div>
 			<div class="item" style="background: url('img/imagem2.jpg');"></div>
 			<div class="item" style="background: url('img/imagem3.jpg');"></div>
-		</div>		
+			<button class="button display-left" onclick="plusDivs(-1)">&#10094;</button>
+			<button class="button display-right" onclick="plusDivs(+1)">&#10095;</button>
+		</div>	
+	</div>
 	</section>
+
+	<script>
+	var slideIndex = 1;
+		showDivs(slideIndex);
+
+	function plusDivs(n) {
+		showDivs(slideIndex += n);
+	}
+
+	function showDivs(n) {
+		var i;
+		var x = document.getElementsByClassName("item");
+		if (n > x.length) {slideIndex = 1}    
+		if (n < 1) {slideIndex = x.length}
+		for (i = 0; i < x.length; i++) {
+			x[i].style.display = "none";  
+		}
+		x[slideIndex-1].style.display = "block";  
+	}
+
+	var slideIndex = 0;
+	carousel();
+
+	function carousel() {
+	    var i;
+	    var x = document.getElementsByClassName("item");
+	    for (i = 0; i < x.length; i++) {
+	      x[i].style.display = "none"; 
+	    }
+	    slideIndex++;
+	    if (slideIndex > x.length) {slideIndex = 1} 
+	    x[slideIndex-1].style.display = "block"; 
+	    setTimeout(carousel, 4500); // Change image every 2 seconds
+	}
+	
+	</script>
 </body>
 </html>
+
+
+
