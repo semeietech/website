@@ -1,0 +1,12 @@
+/*INICIO CARDS*/
+	#cards img {width: 95%;}
+	#cards p {font-size: 16px; line-height: 30px; text-align: justify;}
+	#cards h2 {text-transform: uppercase;}
+	
+	#cards .container {width: 1170px; margin: 0 auto;}
+	#cards .col-md-6 {width: 50%; float: left; padding: 0 20px; margin: 0 -20px;}
+	#cards .col-md-4 {width: 33%; float: left; padding: 0 20px; margin: 0 -20px;}
+	#cards .col-md-8 {width: 66%; float: left; padding: 0 20px; margin: 0 -20px;}
+	#cards .text-center{text-align: center;}
+	#cards .img-responsive{width: 100%; height: auto;}
+/*FIM CARDS*/
