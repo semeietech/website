@@ -11,4 +11,29 @@
 	#cards .img-responsive{width: 100%; height: auto;}
 /*FIM CARDS*/
 
-@import './missao.css'
+.citacao{
+    width: 100%;
+    background-color: blue;
+    color:white;
+    height: 400PX;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+.container{
+    width: 80%;
+    height:100% ;
+    margin:0 auto;
+
+
+}
+
+.mensagem {
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    padding-top: 155px;
+}
+.mensagem span{
+    text-transform: uppercase;
+    color: black;font-weight: 800;
+
+}
