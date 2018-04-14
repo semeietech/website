@@ -22,4 +22,5 @@ function writeSection(id) {
 }
 
 writeSection('missao');
+writeSection('separador');
 writeSection('cards');
